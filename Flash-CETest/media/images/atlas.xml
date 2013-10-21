@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d5655d4716c0d27b3a0c755677833cd7$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="coinGold" x="210" y="474" width="36" height="36" frameX="-17" frameY="-18" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="p1_front" x="280" y="284" width="66" height="92"/>
+    <SubTexture name="p1_jump" x="2" y="2" width="67" height="94"/>
+    <SubTexture name="p1_stand" x="278" y="380" width="66" height="92"/>
+    <SubTexture name="p1_walk01" x="144" y="97" width="66" height="93" frameX="-5" frameY="-1" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk02" x="76" y="192" width="66" height="93" frameX="-6" frameY="0" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk03" x="2" y="193" width="72" height="93" frameX="0" frameY="0" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk04" x="71" y="2" width="72" height="93" frameX="0" frameY="0" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk05" x="2" y="98" width="72" height="93" frameX="0" frameY="-2" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk06" x="2" y="383" width="70" height="93" frameX="0" frameY="-3" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk07" x="2" y="288" width="70" height="93" frameX="0" frameY="-4" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk08" x="76" y="97" width="66" height="93" frameX="-3" frameY="-4" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk09" x="142" y="383" width="66" height="93" frameX="-3" frameY="-4" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk10" x="74" y="288" width="68" height="93" frameX="-2" frameY="-4" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p1_walk11" x="74" y="383" width="66" height="93" frameX="-4" frameY="-2" frameWidth="72" frameHeight="97"/>
+    <SubTexture name="p2_front" x="214" y="190" width="66" height="92"/>
+    <SubTexture name="p2_walk01" x="212" y="286" width="66" height="92" frameX="-3" frameY="0" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk02" x="210" y="380" width="66" height="92" frameX="-4" frameY="0" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk03" x="348" y="2" width="66" height="90" frameX="-4" frameY="0" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk04" x="418" y="94" width="70" height="90" frameX="0" frameY="0" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk05" x="418" y="2" width="70" height="90" frameX="0" frameY="0" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk06" x="346" y="378" width="70" height="90" frameX="0" frameY="-1" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk07" x="215" y="2" width="68" height="92" frameX="0" frameY="-1" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk08" x="212" y="96" width="68" height="92" frameX="0" frameY="-2" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk09" x="144" y="192" width="68" height="92" frameX="0" frameY="-2" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk10" x="145" y="2" width="68" height="92" frameX="0" frameY="-2" frameWidth="70" frameHeight="94"/>
+    <SubTexture name="p2_walk11" x="144" y="286" width="66" height="92" frameX="-2" frameY="-2" frameWidth="70" frameHeight="94"/>
+</TextureAtlas>
